@@ -2,13 +2,13 @@
 	
 	<widget xmlns ="http://www.w3.org/ns/widgets"
 	xmlns:gap="http://phonegap.com/ns/1.0"
-	id ="com.phonegap.example9"
+	id ="com.phonegap.example10"
 	version ="1.0.0">
 	
-	<name> app9 Geolocalizacion</name>
+	<name> Carreras univercitarias.</name>
 	
 	<description> 
-	Muestra la ubicacion del dispositivo de acuerdo al GPS
+	Muestra algunas carreras univercitarias.
 	</description> 
 	
 	<author href="https://build.phonegap.com" email="guadalupe.jimenez.cbtis16@gmail.com">
